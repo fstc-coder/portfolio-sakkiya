@@ -1825,6 +1825,12 @@ h4.modal-title {
 	}
 }
 @media(max-width:320px){
+	 .w3-banner-grid-left .w3-banner-img h3 {
+        font-size: 20px;
+        }
+        .w3-banner-grid-left .w3-banner-img .test{
+            font-size: 12px;
+        }
 	.w3-banner-grids {
     padding: 2em 0 0 0;
 	}
